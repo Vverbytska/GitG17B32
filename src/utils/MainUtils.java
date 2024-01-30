@@ -8,5 +8,6 @@ public class MainUtils {
 
     public static void main(String[] args) {
         System.out.println("this is from Celine branch");
+        System.out.println("Valerria print statement");
     }
 }
