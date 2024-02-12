@@ -6,17 +6,15 @@ public class SwapNumbers {
         int a = 5;
         int b = 45;
 
-        // #1
+        // #1 with 3rd variable
 //        int c = a;
 //        a = b;
 //        b = c;
 
-        // #2
-        int c = a+b;
-        a = c-a;
-        b = c-b;
-
-        //or #3     b = c-a;
+        // #2  without
+        a +=b;
+        b = a-b;
+        a-=b;
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
