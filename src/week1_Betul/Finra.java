@@ -8,6 +8,9 @@ public class Finra {
 
     public static void finra(){
 
+        String result = "";
+
+
         for (int i = 1; i < 31 ; i++) {
 
             if (i % 3 == 0 && i % 5 == 0){
@@ -21,6 +24,7 @@ public class Finra {
                 System.out.print(i + " ");
             }
         }
+        System.out.println(result);
     }
 
 
