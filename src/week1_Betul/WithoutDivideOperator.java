@@ -9,7 +9,7 @@ public class WithoutDivideOperator {
 
     }
 
-    public static void divide(int a, int b) { 
+    public static void divide(int a, int b) {
 
         if (b == 0) {
             System.out.println("Error!! NOT divisible by Zero");
