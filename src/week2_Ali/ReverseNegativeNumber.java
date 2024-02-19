@@ -24,6 +24,11 @@ public class ReverseNegativeNumber {
         }
         System.out.println("The reverse of the given number is: " + reversed);
     }
+    /*
+    2. Numbers -- Reverse negative number
+Write a return method that can reverse
+negative number and return it as int
+     */
 
 
 }
