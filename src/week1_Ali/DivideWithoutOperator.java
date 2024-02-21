@@ -1,7 +1,6 @@
-package week1_Betul;
+package week1_Ali;
 
-public class WithoutDivideOperator {
-
+public class DivideWithoutOperator {
     public static void main(String[] args) {
         divide(25, 0);
         divide(25, 5);
@@ -27,9 +26,4 @@ public class WithoutDivideOperator {
         System.out.println(result + count + " remainder: " + a);
 
     }
-
-
 }
-/*
-write a method that can divide two numbers without using division operator.
- */
