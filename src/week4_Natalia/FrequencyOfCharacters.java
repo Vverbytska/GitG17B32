@@ -28,8 +28,8 @@ public class FrequencyOfCharacters {
         return result;
     }
 
-    public static Map<Character,Integer> frequency2(String str) {
-        Map<Character, Integer> result = new LinkedHashMap<>();
+    public static LinkedHashMap<Character,Integer> frequency2(String str) {
+        LinkedHashMap<Character, Integer> result = new LinkedHashMap<>();
 
         for (int i = 0; i < str.length() - 1; i++) {
             int count = 0;
