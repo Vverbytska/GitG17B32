@@ -3,7 +3,7 @@ package week3_mehtap;
 public class IsPrime {
 
     public static void main(String[] args) {
-        System.out.println(isPrime(1));
+        System.out.println(isPrime(11));
     }
     public static boolean isPrime(int n){
         if(n<=1){

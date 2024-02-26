@@ -2,7 +2,7 @@ package week3_mehtap;
 
 public class ReverseNegativeNumber {
     public static void main(String[] args) {
-        System.out.println(reverseNegativeNumber(-12));
+        System.out.println(reverseNegativeNumber(-124));
     }
     public static int reverseNegativeNumber(int number){
         if(number>=0){
