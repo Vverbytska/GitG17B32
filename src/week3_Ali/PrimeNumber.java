@@ -1,4 +1,4 @@
-package week2_Ali;
+package week3_Ali;
 
 import java.util.Scanner;
 
