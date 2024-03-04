@@ -11,7 +11,7 @@ public class ReverseString {
             sb.append(input.charAt(i));
         }
 
-        // Return the reversed string
+        // Return the reversed string.
         return sb.toString();
     }
 

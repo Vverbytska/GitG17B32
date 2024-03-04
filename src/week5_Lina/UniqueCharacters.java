@@ -2,7 +2,7 @@ package week5_Lina;
 
 public class UniqueCharacters {
     public static String unique(String input) {
-        // create an empty string to store the unique characters.
+        // create an empty string to store the unique characters..
         StringBuilder sb = new StringBuilder();
 
         // loop through each character in the input string.
