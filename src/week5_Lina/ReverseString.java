@@ -3,7 +3,7 @@ package week5_Lina;
 public class ReverseString {
     public static String reverse(String input) {
 
-        // create an empty string to store the reversed string
+        // create an empty string to store the reversed string.
         StringBuilder sb = new StringBuilder();
 
         // loop through each character in the input string in reverse order

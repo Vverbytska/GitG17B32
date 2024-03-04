@@ -2,10 +2,10 @@ package week5_Lina;
 
 public class UniqueCharacters {
     public static String unique(String input) {
-        // create an empty string to store the unique characters
+        // create an empty string to store the unique characters.
         StringBuilder sb = new StringBuilder();
 
-        // loop through each character in the input string
+        // loop through each character in the input string.
         for (int i = 0; i < input.length(); i++) {
             char c = input.charAt(i);
 
@@ -15,7 +15,7 @@ public class UniqueCharacters {
             }
         }
 
-        // returning the string of unique characters
+        // returning the string of unique characters.
         return sb.toString();
     }
 
