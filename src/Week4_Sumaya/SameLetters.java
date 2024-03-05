@@ -20,6 +20,7 @@ public class SameLetters {
     }
 
     public static void main(String[] args) {
+
         System.out.println(same("abc", "cab")); // Output: true
     }
 
