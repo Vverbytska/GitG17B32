@@ -2,7 +2,7 @@ package week6_Natalia;
 
 public class PasswordValidationTask {
     public static void main(String[] args) {
-        String str = "1Ba23!";
+        String str = "1a23!";
         System.out.println("passwordValidation(str) = " + passwordValidation(str));
 
     }
