@@ -1,4 +1,4 @@
-package week1_Celine;
+package week1_OddOrEven;
 
 public class OddOrEven {
     //EXAMPLE PACKAGE AND CLASS FOR OUR JAVA TASKS
